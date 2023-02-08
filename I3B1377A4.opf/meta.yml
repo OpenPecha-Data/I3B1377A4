@@ -1,0 +1,16 @@
+id: I3B1377A4
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:05:36.914107
+last_modified: 2023-02-08 16:05:36.914228
+source_metadata:
+  title: 'Mātṛceṭa: Śatapañcāśatka'
+  language: bo
+bases:
+  BB22:
+    base_file: BB22.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

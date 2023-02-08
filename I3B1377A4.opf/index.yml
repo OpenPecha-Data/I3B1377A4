@@ -1,0 +1,71 @@
+id: c95ec06c9b1b46258cd835695443bee1
+annotation_type: index
+revision: '00001'
+annotations:
+  f216fe58e55b4cfca2a8d9c1c480a990:
+    base: BB22.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 109
+    - title: Preface
+      span:
+        start: 110
+        end: 141
+    - title: 'Chapter 1: Upodghātaḥ'
+      span:
+        start: 142
+        end: 1293
+    - title: 'Chapter 2: Hetustavaḥ'
+      span:
+        start: 1294
+        end: 3534
+    - title: 'Chapter 3: Nirupamastavaḥ'
+      span:
+        start: 3535
+        end: 5440
+    - title: 'Chapter 4: Adbhutastavaḥ'
+      span:
+        start: 5441
+        end: 6713
+    - title: 'Chapter 5: Rūpastavaḥ'
+      span:
+        start: 6714
+        end: 7499
+    - title: 'Chapter 6: Karuṇāstavaḥ'
+      span:
+        start: 7500
+        end: 8697
+    - title: 'Chapter 7: Vacanastavaḥ'
+      span:
+        start: 8698
+        end: 10615
+    - title: 'Chapter 8: Śāsanastavaḥ'
+      span:
+        start: 10616
+        end: 11906
+    - title: 'Chapter 9: Praṇidhistavaḥ'
+      span:
+        start: 11907
+        end: 13287
+    - title: 'Chapter 10: Mārgaāvatārastavaḥ'
+      span:
+        start: 13288
+        end: 14709
+    - title: 'Chapter 11: Duṣkarastavaḥ'
+      span:
+        start: 14710
+        end: 16145
+    - title: 'Chapter 12: Kauśalastavaḥ'
+      span:
+        start: 16146
+        end: 17554
+    - title: 'Chapter 13: Ānṛṇyastavaḥ'
+      span:
+        start: 17555
+        end: 20065
+    - title: Colophon
+      span:
+        start: 20066
+        end: 20265
